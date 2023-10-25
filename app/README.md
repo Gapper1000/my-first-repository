@@ -15,4 +15,13 @@ Run the example script:
 
 ```sh
 python app/my_script.py
+
+python app/unemployment.py
 ```
+
+## Install Pacakges
+
+```sh
+pip install -r requirements.txt
+```
+
