@@ -33,7 +33,7 @@ Run the example script:
 ```sh
 python app/my_script.py
 
-python app/unemployment.py
+python -m app.unemployment
 
 python app/email_service.py
 
