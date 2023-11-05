@@ -34,5 +34,8 @@ Run the example script:
 python app/my_script.py
 
 python app/unemployment.py
+
+python app/email_service.py
+
 ```
 
